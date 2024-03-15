@@ -38,7 +38,7 @@ The extension requires access to the hostnames and paths of the websites you vis
 We use the collected information to:
 
 - Verify user identity and authorize access.
-- Log access for security audits and compliance with HIPAA.
+- Log access for security audits and compliance with HIPAA and other regulatory requirements.
 - Enhance the extension's functionality by determining its availability on certain hostnames.
 
 ### 1.3 Information Sharing and Disclosure
