@@ -51,4 +51,4 @@ We are committed to protecting your information through a combination of physica
 We may update this Privacy Policy from time to time to reflect changes in our practices or legal requirements. We will notify you of any material changes by posting the updated policy on our internal communication channels.
 
 ### 1.6 Contact Us
-If you have any questions about this Privacy Policy or our information practices, please contact us at it@getplume.co
+If you have any questions about this Privacy Policy or our information practices, please contact us at it-admin@getplume.co
