@@ -21,12 +21,12 @@ Publicly accessible privacy policies for all internal tooling.
 
 **Effective Date:** Fri Mar 15 2024
 
-This Privacy Policy applies to the Chrome extension developed for internal use by Plume ("we", "us", or "our"). The extension is designed exclusively for employees of Plume ("you" or "your") and is not available to the general public. This policy describes how we collect, use, and protect your information in connection with the extension and is intended to comply with the Health Insurance Portability and Accountability Act (HIPAA) and Google Chrome Store's requirements.
+This Privacy Policy applies to the Chrome extension developed for internal use by Plume ("we", "us", or "our"). The extension is designed exclusively for all personnel including employees, consultants, contractors of both Plume and Plume Health Medical Group ("you" or "your", collectively "Plume personnel") and is not available to the general public. This policy describes how we collect, use, and protect your information in connection with the extension and is intended to comply with the Health Insurance Portability and Accountability Act (HIPAA) and Google Chrome Store's requirements.
 
 ### 1.1 Information We Collect
 
 #### 1.1.a Authentication Data
-To verify your identity and maintain security, we collect authentication data, including but not limited to usernames, password hashes, and security tokens. This information is essential for granting access and ensuring that the extension and its functionalities are exclusively used by authorized Plume employees.
+To verify your identity and maintain security, we collect authentication data, including but not limited to usernames, password hashes, and security tokens. This information is essential for granting access and ensuring that the extension and its functionalities are exclusively used by authorized Plume personnel.
 
 #### 1.1.b Access Logs
 In accordance with HIPAA regulations, we log access to the extension to monitor usage and safeguard against unauthorized access. These logs include date, time, user identification, and the nature of the accessed information.
@@ -42,7 +42,7 @@ We use the collected information to:
 - Enhance the extension's functionality by determining its availability on certain hostnames.
 
 ### 1.3 Information Sharing and Disclosure
-We do not share or disclose any collected information with third parties, except as required by law or to comply with legal processes. Access to the information is strictly limited to authorized Plume employees who need the information to perform their job functions related to the maintenance and operation of the extension.
+We do not share or disclose any collected information with third parties, except as required by law or to comply with legal processes. Access to the information is strictly limited to authorized Plume personnel who need the information to perform their job functions related to the maintenance and operation of the extension.
 
 ### 1.4 Data Protection
 We are committed to protecting your information through a combination of physical, administrative, and technical safeguards. These measures are designed to ensure the confidentiality, integrity, and availability of your and your patients' information in accordance with HIPAA standards.
